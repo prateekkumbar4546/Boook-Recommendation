@@ -1,4 +1,4 @@
-Book Recommendation System using KNN Algorithm
+#Book Recommendation System using KNN Algorithm
 This project aims to build a book recommendation system using the K-nearest neighbors (KNN) algorithm. The system takes in user input about their book preferences and recommends books similar to their interests based on the KNN algorithm. Additionally, the project also analyzes the dataset and visualizes key KPIs using barplots.
 
 Dataset
