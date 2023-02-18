@@ -26,10 +26,10 @@ Average rating by genre
 Number of books by author
 These visualizations can be found in the visualizations folder.
 
-Future Work
+# Future Work
 Implement other recommendation algorithms (e.g., collaborative filtering)
 Increase the size of the dataset for more accurate recommendations
 Improve the user interface for easier input and visualization of recommendations
-Contributors
-Your Name
+# Contributors
+Prateek Kumar Kumbar
 Please feel free to contribute to this project by submitting a pull request.
